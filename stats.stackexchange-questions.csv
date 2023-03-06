@@ -1,0 +1,31 @@
+Question_Title,Question_ID,Author_Name,Author_ID,Author_Rep,Question_Post_Time,Question_Score,Number_Of_Views,Number_Of_Answers,Number_Of_Comments,Edited,Answer_Accepted,tags,Question_Closed
+How to compute discrete probability of a signal for further entropy computation?,235989,Shraddha Sharma,235989,21,asked 33 mins ago,0,3,0,0,False,False,probability,False
+Calculating confidence in part of a sample (explain like I'm in the humanities please :) ),380147,rzmg,380147,11,asked 56 mins ago,1,11,0,2,False,False,social-science,False
+Can I disentangle an interaction in a multilevel model by reordering factors?,350711,Hu12345,350711,13,asked 1 hour ago,0,7,1,0,False,False,r,False
+"Bayesian posterior density estimation, given data and a prior: a confusion about the denominator",380538,A non-statistician engineer,380538,1,asked 1 hour ago,0,5,0,0,False,False,bayesian,False
+"How do we draw parallels between the BBG drug example and the businessman (affected by the election) anecdote in ""The book of why""?",358344,Bruce Murdock,358344,1,asked 1 hour ago,0,5,0,0,False,False,references,False
+Metropolis - Hasting sampling: histogram shapes looks sane but bin values are off,109101,Physkid,109101,207,asked 1 hour ago,0,5,0,0,False,False,self-study,False
+Verification of my results,380535,heyjude123,380535,1,asked 1 hour ago,0,6,0,0,False,False,probability,False
+Transform a dataframe for network analysis using pandas [closed],371099,alyx,371099,53,asked 2 hours ago,0,4,0,0,False,False,python,True
+How to compute F-Statistic by hand?,208995,Oalvinegro,208995,265,asked 2 hours ago,0,9,0,0,False,False,regression,False
+Why median is not a sufficient statistic?,308275,Diorne,308275,11,asked 2 hours ago,1,23,0,5,False,False,median,False
+Is it possible for one list X to have a higher arithmetic mean than that of list Y but the 80 percentile of X not exceed 70 percentile of Y?,263327,Lasuiqw,263327,113,asked 2 hours ago,0,9,0,1,False,False,mean,False
+AdaGrad: motivation and complex values,380532,Cyril Dubovetsky,380532,11,asked 3 hours ago,1,5,0,0,False,False,machine-learning,False
+geom_rangeframe() doesn't work [closed],380448,Erkaya Mustafa,380448,1,asked 4 hours ago,0,8,0,0,False,False,r,True
+Multiple treatment dynamic diff-in-diff,29021,TeTs,29021,827,asked 4 hours ago,0,7,0,0,False,False,econometrics,False
+Identifiability of simple varying coefficient model,10876,Arrigo Benedetti,10876,465,asked 4 hours ago,0,12,0,0,False,False,splines,False
+How to deal with mathematical coupling when having a third variable,72079,AliceD,72079,207,asked 13 hours ago,0,9,0,0,False,False,correlation,False
+How do I estimate probability of someone having condition X,115495,Arsen Zahray,115495,111,asked 13 hours ago,1,18,0,5,False,False,mathematical-statistics,False
+Seemingly unrelated estimations for non-linear random effects,83518,Alejandro Hirmas,83518,1,asked 14 hours ago,0,3,0,0,False,False,logistic,False
+Averages in Monte Carlo error propagation,368452,Gabraltur,368452,23,asked 14 hours ago,0,12,0,2,False,False,mean,False
+Can I use Kruskal-Wallis test for dependent and fixed ordinal variables?,380492,Seille,380492,1,asked 14 hours ago,0,18,1,4,False,False,ordinal-data,False
+How to transform count response variable including zero values to non-negative values for fitting a GAM analysis?,380489,Atefeh,380489,11,asked 15 hours ago,1,13,0,1,False,False,regression,False
+How to show in simulations that a method estimates standard errors well?,53084,rep_ho,53084,"7,033",asked 15 hours ago,1,15,0,1,False,False,bootstrap,False
+"In my DiD regression, I have % change as dependent variable and log(x) as a regressor. How do I interpret the beta coefficient?",380486,Akshat Agarwal,380486,11,asked 15 hours ago,1,8,0,1,False,False,regression,False
+Is this implementation in R of period survival analysis conceptually correct? [closed],380199,kerolet,380199,11,asked 16 hours ago,1,19,0,0,False,False,r,True
+Reference of risk prediction model with step by step description?,380483,Nic,380483,1,asked 16 hours ago,0,10,0,0,False,False,predictive-models,False
+Group level interaction or mixed effects model,314215,tony13s,314215,21,asked 17 hours ago,0,15,0,5,False,False,mixed-model,False
+"if x is a normal random variable, what will be the approach to find out the expected value of log2(1+x^2)? [closed]",380478,VIBHOR SINGAL,380478,1,asked 17 hours ago,0,29,0,1,False,False,probability,True
+Performing exact tests for small samples,189701,Plop,189701,133,asked 18 hours ago,0,24,0,4,False,False,mathematical-statistics,False
+Staggered two way fixed effects with time heterogenic effects and binary outcome variable,365215,EmilA,365215,11,asked 18 hours ago,1,5,0,0,False,False,panel-data,False
+Design-based standard errors in svyglm but w/o weights or stratification,163114,jay.sf,163114,651,asked 19 hours ago,0,3,0,0,False,False,r,False
